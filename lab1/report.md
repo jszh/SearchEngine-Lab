@@ -64,7 +64,7 @@
 |5|北京本地宝-爱上本地宝,生活会更好|http://bj.bendibao.com |1|
 |6|北京市教育委员会|http://www.bjedu.gov.cn|1|
 |7|2018北京旅游攻略,北京自由行攻略,马蜂窝北京出游攻略游记 - 马蜂窝|http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10065.html |1|
-|8|北京_百度图片|https://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&ie=gbk&word=%B1%B1%BE%A9&fr=ala&ala=1&alatpl=adress&pos=0&hs=2&xthttps=111111 |1|
+|8|北京_百度图片|https://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&ie=gbk&word=%B1%B1%BE%A9 |1|
 |9|【汽车网站-汽车报价\|汽车图片\|汽车论坛】-易车网|http://beijing.bitauto.com/ |1|
 
 #### 360好搜
