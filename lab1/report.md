@@ -65,14 +65,14 @@
 |6|北京市教育委员会|http://www.bjedu.gov.cn|1|
 |7|2018北京旅游攻略,北京自由行攻略,马蜂窝北京出游攻略游记 - 马蜂窝|http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10065.html |1|
 |8|北京_百度图片|https://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&ie=gbk&word=%B1%B1%BE%A9&fr=ala&ala=1&alatpl=adress&pos=0&hs=2&xthttps=111111 |1|
-|9|【汽车网站-汽车报价|汽车图片|汽车论坛】-易车网|http://beijing.bitauto.com/?referrer=https://www.baidu.com/link?url=QqrE3sfiWS0M40RKnLtq3vOPFqSbMQVlw5OHOkyRuJ0a3pc_juqMV2eSrzaTC_hP&wd=&eqid=bb038dc80005a60d000000035ac07f6b |1|
+|9|【汽车网站-汽车报价\|汽车图片\|汽车论坛】-易车网|http://beijing.bitauto.com/ |1|
 
 #### 360好搜
 |编号|摘要|网址|标注|
 |-|-|-|-|
 |0|北京_360百科|https://baike.so.com/doc/2510451-2652822.html |1|
 |1|北京_360地图|https://ditu.so.com/?t=map&src=onebox&new=1&k=北京市&c=北京 |1|
-|2|北京旅游攻略（携程）|http://you.ctrip.com/place/beijing1.html?allianceid=5376&sid=448036&ouid=000401app-&utm_medium=onebox&utm_campaign=y360onebox_strategy&utm_source=360&isctrip= |1|
+|2|北京旅游攻略（携程）|http://you.ctrip.com/place/beijing1.html |1|
 |3|北京_360图片|http://image.so.com/i?src=360pic_normal&z=1&i=0&cmg=ce9d2a9b7b083c0079850f897927b14c&q=北京 |1|
 |4|北京天气预报_近日天气预报|https://tianqi.so.com/weather/101010100 |1|
 |5|【北京PM2.5实时查询】空气质量指数查询_全国天气网|https://tianqi.so.com/air/101010100 |1|
@@ -142,12 +142,12 @@
 #### 百度
 |编号|摘要|网址|标注|
 |-|-|-|-|
-|0|订机票-携程订机票低价\_机票预订\_超低折扣|http://flights.ctrip.com/?allianceid=4897&sid=155935&utm_medium=baidu&utm_campaign=ty&utm_source=baiduppc |1|
-|1|北京京都机票-中青旅遨游网-超低价格超高品质|http://www.aoyou.com/search/b1-l5/?utm_source=baidusem-beijing&utm_medium=cpc&utm_term=北京京都机票&utm_content=日本-机票&utm_campaign=2017遨游-北京-日本 |1|
-|2|京东-订机票\_低折风暴\_火速预定|https://sale.jd.com/act/JCeSPbUI2c.html?cu=true&utm_source=baidu-search&utm_medium=cpc&utm_campaign=t_262767352_baidusearch&utm_term=32550114204_0_a9e10c0702a44086b97ab4b087414421 |1|
-|3|中国东方航空官网-机票查询\_机票预订\_航班查询|http://www.ceair.com/?utm_source=baidu_pc&utm_medium=cpc&utm_campaign=XjipiaoTY&utm_content=机票-预订-精确&utm_term=机票预订&fc=k67687160983.a17922049428.u3875679.pb |1|
-|4|旅游就找驴妈妈\_春季享特价\_攻略更省心|http://www.lvmama.com/?losc=241841&tele=499&cm_mmc=baidu10-_-cpc-_-sem-_-pc&utm_source=baidu10&utm_medium=sem&utm_campaign=cpc |0|
-|5|国内国际特价机票查询及在线预订\_百度机票|http://flights.ctrip.com/?mkt_header=bdnm&AllianceID=108294&sid=767751&ouid=v1c5a1ss_0&popup=close&autoawaken=close&sourceid=2189 |1|
+|0|订机票-携程订机票低价\_机票预订\_超低折扣|http://flights.ctrip.com/ |1|
+|1|北京京都机票-中青旅遨游网-超低价格超高品质|http://www.aoyou.com/search/b1-l5/ |1|
+|2|京东-订机票\_低折风暴\_火速预定（京东旅行广告）|https://sale.jd.com/act/JCeSPbUI2c.html |0|
+|3|中国东方航空官网-机票查询\_机票预订\_航班查询|http://www.ceair.com/ |1|
+|4|旅游就找驴妈妈\_春季享特价\_攻略更省心|http://www.lvmama.com/ |0|
+|5|国内国际特价机票查询及在线预订\_百度机票|http://flights.ctrip.com/ |1|
 |6|【去哪儿网】机票查询,特价机票,打折飞机票-去哪儿网Qunar.com|https://flight.qunar.com |1|
 |7|【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票|http://flights.ctrip.com |1|
 |8|【艺龙旅行网】酒店预订\_机票查询\_酒店团购\_电话4009-333-333|http://www.elong.com |0|
@@ -156,7 +156,7 @@
 #### 360好搜
 |编号|摘要|网址|标注|
 |-|-|-|-|
-|0|北京出发机票查询_打折/特价机票_机票预定及票价查询_携程机票|http://flights.ctrip.com/booking/bjs-beijing-flights.html?allianceid=5376&sid=130862&ouid=000401app-&utm_medium=onebox&utm_campaign=flightcityticket360onebox&utm_source=360&isctrip= |1|
+|0|北京出发机票查询_打折/特价机票_机票预定及票价查询_携程机票|http://flights.ctrip.com/booking/bjs-beijing-flights.html |1|
 |1|【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票|http://flights.ctrip.com |1|
 |2|【艺龙旅行网】酒店预订\_机票查询\_酒店团购\_电话4009-333-333|http://www.elong.com |0|
 |3|中国国际航空公司-飞机票查询预订\_航班查询\_最新打折特价机票|http://www.airchina.com.cn |1|
@@ -170,7 +170,7 @@
 #### 搜狗
 |编号|摘要|网址|标注|
 |-|-|-|-|
-|0|国内机票查询及机票在线预订_携程旅行网提供|http://flights.ctrip.com/?allianceid=4901&sid=872382&ouid= |1|
+|0|国内机票查询及机票在线预订_携程旅行网提供|http://flights.ctrip.com/ |1|
 |1|订飞机票,北京机票,电子机票,国际机票,电子客票,特价机票,...（9588旅行网）|http://www.9588.com |1|
 |2|【去哪儿网】机票查询,特价机票,打折飞机票-去哪儿网Qunar.com|https://flight.qunar.com |1|
 |3|【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票|http://flights.ctrip.com |1|
@@ -229,29 +229,29 @@
 |编号|摘要|网址|标注|
 |-|-|-|-|
 |0|word如何制作表格_百度经验|https://jingyan.baidu.com/article/49711c61334757fa441b7c97.html |1|
-|1|word文档怎么用绘制表格划线_百度知道|https://zhidao.baidu.com/question/1113672777662167019.html |1|
+|1|word文档怎么用绘制表格划线\_百度知道|https://zhidao.baidu.com/question/1113672777662167019.html |1|
 |2|【Word制作表格不求人】Word表格制作教程/各种表格制作技巧_Word...|http://www.wordlm.com/html/2730.html |1|
-|3|word2007制作表格的三种方法_百度经验|https://jingyan.baidu.com/article/60ccbceb6f2a2f64cab19722.html |1|
-|4|word2013如何绘制表格_百度经验|https://jingyan.baidu.com/article/215817f7aa2de41eda1423ad.html |1|
+|3|word2007制作表格的三种方法\_百度经验|https://jingyan.baidu.com/article/60ccbceb6f2a2f64cab19722.html |1|
+|4|word2013如何绘制表格\_百度经验|https://jingyan.baidu.com/article/215817f7aa2de41eda1423ad.html |1|
 |5|WORD中画表格的铅笔在哪里_百度知道|https://zhidao.baidu.com/question/125510711.html |1|
 |6|如何在word中画表格 word怎么排版-教育-高清视频-爱奇艺|http://www.iqiyi.com/w_19rs38w6xh.html |1|
-|7|Word表格制作图文教程 Word怎么制作表格_word_办公软件..._脚本之家|http://www.jb51.net/office/word/452955.html |1|
-|8|在WORD2010文档中绘制表格_百度文库|https://wenku.baidu.com/view/7648617dbceb19e8b9f6ba9f.html |1|
-|9|手机上如何用word做表格_百度经验|https://jingyan.baidu.com/article/1612d5008861b6e20e1eeec0.html |1|
+|7|Word表格制作图文教程 Word怎么制作表格\_word\_办公软件..._脚本之家|http://www.jb51.net/office/word/452955.html |1|
+|8|在WORD2010文档中绘制表格\_百度文库|https://wenku.baidu.com/view/7648617dbceb19e8b9f6ba9f.html |1|
+|9|手机上如何用word做表格\_百度经验|https://jingyan.baidu.com/article/1612d5008861b6e20e1eeec0.html |1|
 
 #### 360好搜
 |编号|摘要|网址|标注|
 |-|-|-|-|
-|0|word如何制作表格_百度经验|https://jingyan.baidu.com/article/49711c61334757fa441b7c97.html |1|
-|1|Word画表格的笔在哪里_Word2010怎么绘制表格_最火下载站|http://www.veryhuo.com/a/view/117556.html |1|
-|2|用Word怎么画表格?_360问答|https://wenda.so.com/q/1363986391064895?src=180 |1|
-|3|怎样在Word2007文档中绘制表格_百度经验|https://jingyan.baidu.com/article/4d58d541ec3f8c9dd4e9c0c4.html |1|
-|4|怎么使用Word画表格并使间距相同_360问答|https://wenda.so.com/q/1381761739069127 |1|
-|5|用Word怎么画表格?_360问答|https://wenda.so.com/q/1482952282725642 |1|
+|0|word如何制作表格\_百度经验|https://jingyan.baidu.com/article/49711c61334757fa441b7c97.html |1|
+|1|Word画表格的笔在哪里\_Word2010怎么绘制表格\_最火下载站|http://www.veryhuo.com/a/view/117556.html |1|
+|2|用Word怎么画表格?\_360问答|https://wenda.so.com/q/1363986391064895?src=180 |1|
+|3|怎样在Word2007文档中绘制表格\_百度经验|https://jingyan.baidu.com/article/4d58d541ec3f8c9dd4e9c0c4.html |1|
+|4|怎么使用Word画表格并使间距相同\_360问答|https://wenda.so.com/q/1381761739069127 |1|
+|5|用Word怎么画表格?\_360问答|https://wenda.so.com/q/1482952282725642 |1|
 |6|如何在word中画表格word怎么排版-教育-高清视频-爱奇艺|http://www.iqiyi.com/w_19rs38w6xh.html |1|
 |7|word画表格的最新相关消息（360新闻）|https://news.so.com/ns?q=word画表格&src=onebox |0|
-|8|word文档怎么用绘制表格划线_360问答|https://wenda.so.com/q/1483906324721576 |1|
-|9|WORD中画表格的铅笔在哪里_360问答|https://wenda.so.com/q/1482612525723243 |1|
+|8|word文档怎么用绘制表格划线\_360问答|https://wenda.so.com/q/1483906324721576 |1|
+|9|WORD中画表格的铅笔在哪里\_360问答|https://wenda.so.com/q/1482612525723243 |1|
 
 #### 搜狗
 |编号|摘要|网址|标注|
@@ -265,7 +265,7 @@
 |6|怎么在word里画表格_百度经验|https://jingyan.baidu.com/article/b0b63dbfca6f9a4a48307093.html |1|
 |7|word画表格_搜狗知识（全部约44012条结果）|https://www.sogou.com/sogou?query=word画表格&ie=utf8&pid=sogou-wsse-926c11cc055de9b8&interation=196636&jhdid=3c28af542f2d49f7-c53fd3988c057bf5-a0a46ac725159a5916bb74dabc14ef69 |1|
 |8|制作Word表格的最基本方法:绘制与插入_天极网|http://soft.yesky.com/office/356/2585356.shtml |1|
-|9|word中表格绘制如何绘制表格线间断点?_知乎|https://www.zhihu.com/question/34878321#answer-19509290 |1|
+|9|word中表格绘制如何绘制表格线间断点?\_知乎|https://www.zhihu.com/question/34878321#answer-19509290 |1|
 
 ### 一些观察
 1. 各个搜索引擎都会倾向于推荐自家的其他相关产品，如地图、百科、知道等。
